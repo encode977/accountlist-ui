@@ -7,7 +7,8 @@ module.exports = {
         gray: "#E5E5E5",
         green: "#00D98B",
         border: "#C9C9DA",
-        blue: "#121633",
+        blue: "#8598FC",
+        account: "#FAF2FE",
       },
     },
     fontSize: {
